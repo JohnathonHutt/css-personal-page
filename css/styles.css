@@ -1,0 +1,166 @@
+body {
+  background-color: #B4E9E2;
+  margin-left: 0;
+  margin-top: 0;
+  text-align: center;
+  color: #4051E;
+}
+
+h1 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+p {
+  margin: auto;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Lato', sans-serif;
+  text-decoration: None;
+  margin: 60 30;
+  display: inline-block;
+}
+
+a:hover {
+  color: #EAF6F6;
+
+}
+
+/******class*****/
+
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.chem-image {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.bender {
+  margin: 4rem auto 2rem auto;
+  width: 25rem;
+  height: auto;
+}
+
+.my-pic {
+  width: 12.5em;
+  height: auto;
+  border-radius: 100%;
+  margin-top: 1rem;
+}
+
+.opening-message {
+  font-size: 2.5rem;
+}
+
+.skills-heading {
+  margin: 50px auto;
+}
+.python-image {
+  width: 25%;
+
+  border-radius: 100%;
+  margin-right: 30px;
+  float:left;
+}
+
+.profile, .skills {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.skill-row {
+  text-align: left;
+}
+
+.title {
+  font-size: 5.621rem;
+  margin-top: 5.625rem;
+}
+
+.top-container {
+  background-color: skyblue;
+  position:relative;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+
+.p-skills-1 {
+  margin-bottom: 100px;
+}
+
+.p-skills-2 {
+  margin-bottom: 70px;
+}
+
+.footer-link {
+  display: inline-block;
+  width: 10%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.contact-me {
+  margin: 4rem;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 2.5rem auto 3.5rem;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lato', sans-serif;
+  color: #EAF6F6;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  margin: 30px auto;
+  text-decoration: none;
+}
